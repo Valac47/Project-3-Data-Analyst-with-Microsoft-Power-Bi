@@ -1,25 +1,18 @@
 # Project-3-Data-Analyst-with-Microsoft-Power-Bi
 
-# Interactive Dashboard 
+# Interactive Dashboard -:  Amazon Global Superstore
 
-Sales Dashboard built-in Power bi and  visualize Excel data.
-
+Sales Dashboard built-in Power bi and visualize Excel data.
 
 ## Run the app
 ```Powershell
-# 
 Microsoft Power Bi Dashboard
-# quit
 ```
-
-## Demo
-Sales Dashboard: 
-
 ## STEP
-[image](Step.png)
+![image](Step.png)
 
 ## Dashboard Screenshot
-[image](Dashboardimage.png)
+![image](Dashboardimage.png)
 
 
 ## 🤝 Get to Know Me & Stay Connected
