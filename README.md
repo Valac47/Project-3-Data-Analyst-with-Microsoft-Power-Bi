@@ -15,10 +15,11 @@ Microsoft Power Bi Dashboard
 ## Demo
 Sales Dashboard: 
 
+## STEP
+![Dashboard Screenshot]![image](Step.png)
+
 ## Screenshot
-![Dashboard Screenshot]![image](https://github.com/Valac47/Project-1---Data-Analyst-with-Python/assets/148631804/ef24d331-76b5-4065-9f11-6f39dec7861e)
-## Screenshot
-![Dashboard Screenshot]![image](https://github.com/Valac47/Project-1---Data-Analyst-with-Python/assets/148631804/ef24d331-76b5-4065-9f11-6f39dec7861e)
+![Dashboard Screenshot]![image]()
 
 
 ## 🤝 Get to Know Me & Stay Connected
