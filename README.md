@@ -1,25 +1,22 @@
 # Project-3-Data-Analyst-with-Microsoft-Power-Bi
 
-# Project-1-Data-Analyst-with-Python
+# Interactive Dashboard 
 
-# Interactive Dashboard with Python – Streamlit
-
-Sales Dashboard built-in Python and the Streamlit library to visualize csv data.
+Sales Dashboard built-in Power bi and  visualize Excel data.
 
 
 ## Run the app
 ```Powershell
-# vs code terminal
-streamlit run app.py
-
+# 
+Microsoft Power Bi Dashboard
 # quit
-ctrl-c
 ```
 
 ## Demo
-Sales Dashboard: SUPERstore
+Sales Dashboard: 
 
 ## Screenshot
+![Dashboard Screenshot]![image](https://github.com/Valac47/Project-1---Data-Analyst-with-Python/assets/148631804/ef24d331-76b5-4065-9f11-6f39dec7861e)
 ## Screenshot
 ![Dashboard Screenshot]![image](https://github.com/Valac47/Project-1---Data-Analyst-with-Python/assets/148631804/ef24d331-76b5-4065-9f11-6f39dec7861e)
 
