@@ -1,6 +1,6 @@
 # Project-3-Data-Analyst-with-Microsoft-Power-Bi
 
-# Interactive Dashboard -:  Amazon Global Superstore
+# Interactive Dashboard -:  Amazon Global Superstore Report
 
 Sales Dashboard built-in Power bi and visualize Excel data.
 
