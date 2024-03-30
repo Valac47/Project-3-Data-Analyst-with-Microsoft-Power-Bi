@@ -16,10 +16,10 @@ Microsoft Power Bi Dashboard
 Sales Dashboard: 
 
 ## STEP
-![Dashboard Screenshot]![image](Step.png)
+(Step.png)
 
 ## Dashboard Screenshot
-![Dashboard Screenshot]![image](Dashboardimage.png)
+[image](Dashboardimage.png)
 
 
 ## 🤝 Get to Know Me & Stay Connected
