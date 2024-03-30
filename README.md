@@ -18,8 +18,8 @@ Sales Dashboard:
 ## STEP
 ![Dashboard Screenshot]![image](Step.png)
 
-## Screenshot
-![Dashboard Screenshot]![image]()
+## Dashboard Screenshot
+![Dashboard Screenshot]![image](Dashboardimage.png)
 
 
 ## 🤝 Get to Know Me & Stay Connected
