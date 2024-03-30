@@ -16,7 +16,7 @@ Microsoft Power Bi Dashboard
 Sales Dashboard: 
 
 ## STEP
-(Step.png)
+[image](Step.png)
 
 ## Dashboard Screenshot
 [image](Dashboardimage.png)
